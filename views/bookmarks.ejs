@@ -1,0 +1,26 @@
+<%- include('partials/logged-in-header') -%>
+
+<div class="container card-container">
+  <h2>Bookmarks</h2>
+  <% console.log(posts[0]) %> 
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <% for(var i=0; i<posts.length; i++) {%>
+      <%if(posts[i].bookmarks.includes((user.id))) {%>  
+    <div class="col">
+      <div class="card h-100">
+        <img src="<%= posts[i].image%>" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title"><%= posts[i].title%></h5>
+          <p class="card-text"><%= posts[i].caption%></p>
+          <a href="/post/<%= posts[i]._id%>" class="btn btn-primary">View Post</a>
+        </div>
+      </div>
+    </div>
+    <% } %>
+    <% } %>
+  </div>
+  
+</div>
+
+
+<%- include('partials/footer') -%>
