@@ -36,7 +36,7 @@ password: demo1234
 </div>
 
 
-## Functionalities
+## Functionalities:
 
 A full stack CRUD web app.
 
@@ -48,7 +48,7 @@ A full stack CRUD web app.
 - Route to the bookmarks page which displays each bookmarked post
 
 
-## Optimizations
+## Optimizations:
 
 When I improve this project, I would start by incorporating React on the frontend. I would love to write more composable code with reusable components! I would also like to optimize the UI for a cleaner visual design on each page.
 
