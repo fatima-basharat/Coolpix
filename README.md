@@ -1,12 +1,12 @@
 # Coolpix
 Coolpix is a full stack CRUD web app created for individuals to share their favorite photos with friends and family.
 
-**Link to project:** https://coolpix.onrender.com
-**Demo User**
-email: demo@demo.com 
+**Link to project:** https://coolpix.onrender.com <br>
+**Demo User** <br>
+email: demo@demo.com <br>
 password: demo1234
 
-!(coolpix-pic.png)
+![image](coolpix-pic.png)
 
 ## Tech used:
 
