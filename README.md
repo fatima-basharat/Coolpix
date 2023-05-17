@@ -6,7 +6,7 @@ Coolpix is a full stack CRUD web app created for individuals to share their favo
 email: demo@demo.com <br>
 password: demo1234
 
-![image]("https://github.com/fatima-basharat/Coolpix/assets/117535181/a58f968f-3a1f-4537-be40-1c5b4eb760f3")
+<img width="1440" alt="coolpix-pic" src="https://github.com/fatima-basharat/Coolpix/assets/117535181/caff8f68-d16f-4cd0-a491-17a25cc60c81">
 
 ## Tech used:
 
